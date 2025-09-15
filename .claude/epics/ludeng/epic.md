@@ -2,9 +2,10 @@
 name: ludeng
 status: backlog
 created: 2025-09-15T10:09:18Z
+updated: 2025-09-15T10:12:12Z
 progress: 0%
 prd: .claude/prds/ludeng.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/ethen-cmyk/ludeng/issues/1
 ---
 
 # Epic: ludeng
@@ -132,18 +133,18 @@ github: [Will be updated when synced to GitHub]
 - Week 6: 生产部署和验收测试完成
 
 ## Tasks Created
-- [ ] 001.md - Project Setup and Environment Configuration (parallel: true)
-- [ ] 002.md - Database Design and Schema Implementation (parallel: false)
-- [ ] 003.md - Element Pool Data Preparation and Import (parallel: false)
-- [ ] 004.md - Differentiation Algorithm Implementation (parallel: false)
-- [ ] 005.md - External API Integration Layer (parallel: true)
-- [ ] 006.md - File Upload and Management Service (parallel: true)
-- [ ] 007.md - Task Queue and Job Processing System (parallel: false)
-- [ ] 008.md - Frontend Interface Development (parallel: true)
-- [ ] 009.md - System Integration and End-to-End Testing (parallel: false)
-- [ ] 010.md - Production Deployment and Monitoring Setup (parallel: false)
+- [ ] #2 - Project Setup and Environment Configuration (parallel: true)
+- [ ] #3 - Database Design and Schema Implementation (parallel: false)
+- [ ] #6 - Element Pool Data Preparation and Import (parallel: false)
+- [ ] #9 - Differentiation Algorithm Implementation (parallel: false)
+- [ ] #4 - External API Integration Layer (parallel: true)
+- [ ] #5 - File Upload and Management Service (parallel: true)
+- [ ] #7 - Task Queue and Job Processing System (parallel: false)
+- [ ] #8 - Frontend Interface Development (parallel: true)
+- [ ] #10 - System Integration and End-to-End Testing (parallel: false)
+- [ ] #11 - Production Deployment and Monitoring Setup (parallel: false)
 
 Total tasks: 10
-Parallel tasks: 4 (001, 005, 006, 008)
-Sequential tasks: 6 (002, 003, 004, 007, 009, 010)
+Parallel tasks: 4 (#2, #4, #5, #8)
+Sequential tasks: 6 (#3, #6, #9, #7, #10, #11)
 Estimated total effort: 236 hours (5.9 weeks)
